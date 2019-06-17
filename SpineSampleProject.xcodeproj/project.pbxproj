@@ -172,7 +172,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-SpineSampleProject/Pods-SpineSampleProject-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-SpineSampleProject/Pods-SpineSampleProject-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Spine/Spine.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -181,7 +181,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SpineSampleProject/Pods-SpineSampleProject-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SpineSampleProject/Pods-SpineSampleProject-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E893E201439C3E72C6AB7948 /* [CP] Check Pods Manifest.lock */ = {
