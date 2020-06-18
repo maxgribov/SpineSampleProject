@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5FE70EDE1599EBB11BD080F2 /* Pods_SpineSampleProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0860639B965B0ACC1A8CF368 /* Pods_SpineSampleProject.framework */; };
-		7710A9C4203F708D001D5366 /* goblins-ess.json in Resources */ = {isa = PBXBuildFile; fileRef = 7710A9C3203F708D001D5366 /* goblins-ess.json */; };
+		774D5AB8249C1A220066AC15 /* goblins-ess.json in Resources */ = {isa = PBXBuildFile; fileRef = 774D5AB7249C1A220066AC15 /* goblins-ess.json */; };
 		778C8D95203F350200EA1A25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 778C8D94203F350200EA1A25 /* AppDelegate.swift */; };
 		778C8D9B203F350200EA1A25 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 778C8D9A203F350200EA1A25 /* GameScene.swift */; };
 		778C8D9D203F350200EA1A25 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 778C8D9C203F350200EA1A25 /* GameViewController.swift */; };
@@ -20,7 +20,7 @@
 /* Begin PBXFileReference section */
 		0860639B965B0ACC1A8CF368 /* Pods_SpineSampleProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SpineSampleProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A4198A147B74077374EDE7F /* Pods-SpineSampleProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpineSampleProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SpineSampleProject/Pods-SpineSampleProject.debug.xcconfig"; sourceTree = "<group>"; };
-		7710A9C3203F708D001D5366 /* goblins-ess.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "goblins-ess.json"; sourceTree = "<group>"; };
+		774D5AB7249C1A220066AC15 /* goblins-ess.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "goblins-ess.json"; sourceTree = "<group>"; };
 		778C8D91203F350200EA1A25 /* SpineSampleProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpineSampleProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		778C8D94203F350200EA1A25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		778C8D9A203F350200EA1A25 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 				778C8D9C203F350200EA1A25 /* GameViewController.swift */,
 				778C8D9E203F350200EA1A25 /* Main.storyboard */,
 				778C8DA1203F350200EA1A25 /* Assets.xcassets */,
-				7710A9C3203F708D001D5366 /* goblins-ess.json */,
+				774D5AB7249C1A220066AC15 /* goblins-ess.json */,
 				778C8DA3203F350200EA1A25 /* LaunchScreen.storyboard */,
 				778C8DA6203F350200EA1A25 /* Info.plist */,
 			);
@@ -158,8 +158,8 @@
 			files = (
 				778C8DA0203F350200EA1A25 /* Main.storyboard in Resources */,
 				778C8DA2203F350200EA1A25 /* Assets.xcassets in Resources */,
+				774D5AB8249C1A220066AC15 /* goblins-ess.json in Resources */,
 				778C8DA5203F350200EA1A25 /* LaunchScreen.storyboard in Resources */,
-				7710A9C4203F708D001D5366 /* goblins-ess.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
