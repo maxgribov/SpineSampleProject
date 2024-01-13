@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "spine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxgribov/Spine",
+      "state" : {
+        "revision" : "fdc80aaad203c0ca15152d556c9a9e654f90fc2d",
+        "version" : "3.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
